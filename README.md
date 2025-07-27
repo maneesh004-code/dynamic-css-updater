@@ -6,7 +6,7 @@ This is a fun and interactive project where you can control and update CSS varia
 
 ## 🚀 Live Demo
 
-🔗 [Live Demo](https://your-username.github.io/dynamic-css-updater/)  
+🔗 [Live Demo](https://maneesh004-code.github.io/dynamic-css-updater/)  
 
 ---
 
@@ -30,6 +30,6 @@ dynamic-css-updater/
 ## 📥 Clone This Repository
 
 To clone and run this project locally:
-git clone https://github.com/your-username/dynamic-css-updater.git
+git clone https://github.com/maneesh004-code/dynamic-css-updater.git
 
 
